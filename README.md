@@ -6,10 +6,11 @@ Machine learning is an application of artificial intelligence (AI) that provides
 Types of Machine Learning
 Machine learning is sub-categorized to three types:
 
-•Supervised learning :
+• Supervised learning :
 Supervised learning is the Data mining task of inferring a function from labelled training data. The training data consist of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal)
 
 Classification:
+
 1.1 Logistic Regression:
 	Logistic regression is a predictive analysis. Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables.
 
@@ -35,7 +36,7 @@ Regression:
 
 ===================================================
 
-•Unsupervised Learning:
+• Unsupervised Learning:
 The model learns through observation and finds structures in the data. Once the model is given a dataset, it automatically finds patterns and relationships in the dataset by creating clusters in it. What it cannot do is add labels to the cluster, like it cannot say this a group of apples or mangoes, but it will separate all the apples from mangoes.
 
 Suppose we presented images of apples, bananas and mangoes to the model, so what it does, based on some patterns and relationships it creates clusters and divides the dataset into those clusters. Now if a new data is fed to the model, it adds it to one of the created clusters.
@@ -48,7 +49,7 @@ Suppose we presented images of apples, bananas and mangoes to the model, so what
 
 ===============================================================
 
-•Reinforcement Learning:
+• Reinforcement Learning:
 Reinforcement learning is an area of Machine Learning. Reinforcement. It is about taking suitable action to maximize reward in a particular situation. It is employed by various software and machines to find the best possible behavior or path it should take in a specific situation. Reinforcement learning differs from the supervised learning in a way that in supervised learning the training data has the answer key with it so the model is trained with the correct answer itself whereas in reinforcement learning, there is no answer but the reinforcement agent decides what to do to perform the given task. In the absence of training dataset, it is bound to learn from its experience.
 
 * Markov Decision Processes:
