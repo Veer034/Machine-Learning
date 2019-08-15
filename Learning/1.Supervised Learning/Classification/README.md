@@ -8,5 +8,3 @@ For doing this custom class written CustomPredictKNNAlorithm:
 					   test value. This method returns the result.
 
 2.NumberClassifier : This file contains custom classifier using MNSIT data to identify the number passed in as input. tensor-flow basic learning algorithm(LinearClassifier) used for learning from data provided in MNSIT.	
-
-3.DecisionTreeClassifier : This file contains code to identify the the type of tree based on passed combination of input values. This Classifier makes a tree structure based on the passed data. Tree structure keep on getting created till the leaf node reached, where no further node can be created. Based on that result will be calculated for the passed test input data. 
