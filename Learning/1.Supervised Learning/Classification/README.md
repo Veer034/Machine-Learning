@@ -63,5 +63,5 @@ Graphical Result:<br/>  <img src="images/DecisionTreeTrain.png" width=350 height
 #### 9. Random Forest Classification :
 This file contains implementation of sales team assumption of possible customer for sales of car just like decision tree regression model, but with multiple iteration to find out the best solution of making the assumption about possibility of purchase. We are setting n_estimators ,which will make sure the number of trees used for making the assumption.
 - For performing the task,RandomForestClassifier class used of sklearn.ensemble
-- Data collection point after log in  kaggle: https://www.kaggle.com/akram24/position-salaries<img src="images/RandomForestResult.png" width=150 height=100><br/>
+- Data collection point after log in  kaggle: https://www.kaggle.com/akram24/position-salaries<br/>Result Ratio[0|1]:<br/><img src="images/RandomForestResult.png" width=150 height=100><br/>
 Graphical Result:<br/>  <img src="images/RandomForestTrain.png" width=350 height=300><img src="images/RandomForestTest.png" width=350 height=300>
